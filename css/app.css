@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+body {
+        background-color: #4d4d4d;
+    }
+h1{ display: inline; 
+    margin-left: 100px;
+    margin-right: 100px;
+  font-family: 'Open Sans', sans-serif;}
+h2{ display: inline; 
+font-family: 'Open Sans', sans-serif;}
+a { color: #ffffff; 
+font-family: 'Open Sans', sans-serif;text-decoration: none;}
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+.margins {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.title {
+  color: #ffffff;
+  margin-top: 50px; 
+}
+.center {
+  text-align: center;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+#one { }
+
+#img1 {
+	position: absolute;
+  top: 200px;
+	left: 300px;
+}
+#img2 {
+  position: absolute;
+  top: 200px;
+  left: 250px;
+}
+#myCanvas2 {
+  position:  absolute;
+  background-color: #ffffff;
+  top: 200px;
+  left: 700px;
+}
+#myCanvas5 {
+  position:  absolute;
+  background-color: #4E606E;
+  top: 200px;
+  left: 700px;
+}
+#myCanvas6 {
+  position:  absolute;
+  background-color: #415D8D;
+  top: 200px;
+  left: 700px;
+}
+#myCanvas7 {
+  position:  absolute;
+  background-color: #C3BE9F;
+  top: 200px;
+  left: 700px;
+}
+#myCanvas8 {
+  position:  absolute;
+  background-color: #071D56;
+  top: 200px;
+  left: 700px;
+}
+#myCanvas9 {
+  position:  absolute;
+  background-color: #7E8995;
+  top: 200px;
+  left: 700px;
+}
+#myCanvas10 {
+  position:  absolute;
+  background-color: #7692B8;
+  top: 200px;
+  left: 700px;
+}
+#myCanvas {
+ position:  absolute;
+ top: 200px;
+ left: 700px;
+}
+#myCanvas3 {
+  position:  absolute;
+  top: 200px;
+  left: 700px;
+}
+#myCanvas4 {
+  position:  absolute;
+  top: 200px;
+  left: 700px;
+}
